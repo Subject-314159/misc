@@ -1,0 +1,22 @@
+This Custom License extends the GNU General Public License version 3 (GPLv3) with the following additional terms and conditions:
+
+0. Additional Definitions.
+
+For the purposes of this license, the following terms are defined as follows:
+
+- "Author" refers to the original creator or creators of the mod licensed under this Custom License.
+- "Fork" refers to the creation of a separate version of the mod that diverges from the main development path and retains more than 60% of the original software's code.
+- "Public Written Request" refers to a written request made as a new thread in this mod page's discussion.
+- "Platform" refers to the official Factorio mod portal where the mod is initially distributed by the Author.
+
+1. Consent for Forking and Redistribution on the Same Platform.
+
+You may not fork and redistribute the software on the same Platform without the explicit consent of the Author. To obtain consent, you must make a Public Written Request to the Author.
+
+2. Absence of Author's Response.
+
+If the Author does not respond to the Public Written Request within three months from the date of the request, you are granted permission to fork, modify and redistribute the software on the same Platform.
+
+3. Incorporation of GNU GPLv3.
+
+All other terms and conditions of the GNU General Public License version 3 apply to this software, except as specifically modified by this Custom License. A copy of the GNU General Public License version 3 is available at http://www.gnu.org/licenses/.
